@@ -25,6 +25,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": []
+    "plugins": [
+      "expo-notifications",
+      ["expo-location", { "locationWhenInUsePermission": "Allow DeliveryOS to update your delivery location." }]
+    ]
   }
 }

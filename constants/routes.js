@@ -7,5 +7,6 @@ export const APP_ROUTES = {
   HOME: 'Home',
   MAIN_TABS: 'MainTabs',
   ACTIVE_DELIVERY: 'ActiveDelivery',
+  NEW_DELIVERY: 'NewDelivery',
   EARNINGS: 'Earnings',
 };
